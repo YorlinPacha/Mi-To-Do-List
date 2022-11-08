@@ -72,6 +72,7 @@ form {
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
+  /* agregar scroll */
   overflow-y: scroll;
   max-height: 60vh;
   height: 60vh;
